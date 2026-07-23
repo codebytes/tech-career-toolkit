@@ -13,10 +13,11 @@ footer: 'Your Path Into Tech | Chris Ayers'
 
 ## Explore the Field, Build Real Skills, Take Your First Steps
 
-**Explore directions. Build real things. Find your people.**
-
 Chris Ayers<br>
 Principal Software Engineer | Speaker | Community Builder
+
+![w:110](./img/qr-toolkit.svg)
+**Slides:** [chris-ayers.com/tech-career-toolkit](https://chris-ayers.com/tech-career-toolkit/)
 
 ![bg right:49% contain](./img/title-journey.drawio.svg)
 
@@ -1463,6 +1464,9 @@ Principal Software Engineer | Speaker | Community Builder
   <a href="https://bsky.app/profile/chris-ayers.com">Bluesky</a> &nbsp;|&nbsp;
   <a href="https://hachyderm.io/@Chrisayers">Mastodon</a>
 </p>
+
+![w:170](./img/qr-toolkit.svg)
+**Slides & resources:** [chris-ayers.com/tech-career-toolkit](https://chris-ayers.com/tech-career-toolkit/)
 
 <!--
 Timing: 5 minutes.
