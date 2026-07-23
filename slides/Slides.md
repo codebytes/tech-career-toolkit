@@ -6,36 +6,25 @@ math: mathjax
 footer: 'Your Path Into Tech | Chris Ayers'
 ---
 
-<style>
-section.small {
-  font-size: 24px;
-}
-
-section.invert blockquote,
-section.invert footer,
-section.invert::after {
-  color: #b8c1d1;
-}
-</style>
-
 <!-- _paginate: skip -->
 <!-- _footer: "" -->
-<!-- _class: lead invert -->
 
 # Your Path Into Tech
 
-## Getting Hired, Networking & Building Skills
+## Explore the Field, Build Real Skills, Take Your First Steps
 
-**Build evidence. Build relationships. Practice the process.**
+**Explore directions. Build real things. Find your people.**
 
 Chris Ayers<br>
 Principal Software Engineer | Speaker | Community Builder
 
+![bg right:49% contain](./img/title-journey.drawio.svg)
+
 <!--
 Timing: 30 seconds.
-Open by acknowledging that entering tech can feel opaque, especially during a
-career change. Promise a practical map, not a guaranteed shortcut. The three
-verbs on this slide are the through-line for the entire talk.
+Open by acknowledging that "getting into tech" can feel mysterious in high
+school. Promise a practical map you can start on now, not a guaranteed shortcut.
+The three verbs on this slide are the through-line for the entire talk.
 -->
 
 ---
@@ -44,7 +33,7 @@ verbs on this slide are the through-line for the entire talk.
 
 ## Chris Ayers
 
-### Principal Software Engineer<br>Azure CXP AzRel<br>Microsoft
+### Principal Software Engineer<br>Azure EngOps AzRel<br>Microsoft
 
 <i class="fa-brands fa-bluesky"></i> BlueSky: [@chris-ayers.com](https://bsky.app/profile/chris-ayers.com)
 <i class="fa-brands fa-linkedin"></i> LinkedIn: [chris\-l\-ayers](https://linkedin.com/in/chris-l-ayers/)
@@ -55,44 +44,6 @@ verbs on this slide are the through-line for the entire talk.
 
 ---
 
-# The path we will build
-
-<div class="columns">
-<div>
-
-## 1. Choose a direction
-
-Pick a role family and translate what you already know.
-
-## 2. Read the system
-
-Understand hiring stages and make your evidence easy to find.
-
-</div>
-<div>
-
-## 3. Build proof and people
-
-Ship small work and participate in communities.
-
-## 4. Practice the process
-
-Rehearse interviews and run a sustainable 30-day experiment.
-
-</div>
-</div>
-
-> **Outcome:** one credible next step, not a perfect five-year plan.
-
-<!--
-Timing: 1 minute.
-Frame this as a narrative: direction helps people choose useful practice;
-practice creates evidence; evidence and relationships improve access to hiring
-conversations; each conversation produces feedback for the next loop.
--->
-
----
-
 # Start with the honest version
 
 <div class="columns3">
@@ -100,540 +51,121 @@ conversations; each conversation produces feedback for the next loop.
 
 ## No single route
 
-Degree, certification, self-study, bootcamp, internal transfer, adjacent work,
-or a mix can all be inputs.
+Classes, clubs, online courses, camps, YouTube, or just teaching yourself - any
+mix can get you started.
 
 </div>
 <div>
 
-## First role = bridge
+## First steps are experiments
 
-It provides context, feedback, relationships, and options. It is not a final
-destination.
+A project or club is a way to try something, learn, and meet people. It is not a
+forever decision.
 
 </div>
 <div>
 
-## Constraints are real
+## Start where you are
 
-Time, money, care, health, access, location, and risk tolerance should shape
-the pace.
+Time, money, and access are different for everyone. Pick a pace you can keep
+alongside school.
 
 </div>
 </div>
 
-> The goal is not to look finished. The goal is to make the **next step credible**.
-
-<!--
-Timing: 90 seconds.
-Normalize non-linear movement and pauses. Give examples such as moving from
-support to cloud operations or from analysis to data engineering. Encourage
-people to choose a pace they can repeat; intensity that collapses after a week
-is less useful than a smaller routine they can sustain.
--->
+> The goal is not to have it all figured out. The goal is to make your **next step doable**.
 
 ---
 
-<!-- _class: columns invert small -->
+<!-- _class: columns invert -->
 
-# 1 / Target a role family, not "tech"<br><small>Pick one primary role and one adjacent option.</small>
+# 1 / Explore a direction, not all of "tech"<br><small>Pick one that sounds fun and one backup to explore.</small>
 
-## Build and operate
+## Build and make
 
-- Software engineering
-- QA and test automation
-- Cloud/platform, DevOps, and SRE
-- IT/support, networking, and security
+- Apps, games, and websites
+- Testing and finding bugs
+- Cybersecurity and ethical hacking
+- Hardware, robotics, and IT
 
 ## Analyze and connect
 
-- Data/BI analysis and data science
-- UX/UI, research, and accessibility
-- Product, program, and business systems
-- Technical writing, DevRel, and solutions engineering
-
-<!--
-Timing: 90 seconds.
-This is both a section transition and a decision point. Stress that software
-engineering is only one technical path. Ask attendees to notice which work
-they want to practice weekly, not which title sounds most impressive. An
-adjacent option preserves flexibility without turning the search into "anything
-in tech."
--->
-
----
-
-<!-- _class: small -->
-
-# Translate your experience - do not erase it
-
-| Prior setting | Relevant strengths | Evidence language |
-|---|---|---|
-| Customer-facing work | discovery, de-escalation, communication | Clarified needs, reproduced issues, explained next steps |
-| Operations, trades, or health | diagnostics, procedure, risk awareness | Followed repeatable processes, found causes, reduced risk |
-| Teaching, care, or community | facilitation, documentation, prioritization | Adapted explanations, coordinated constraints, built trust |
-| Design, content, or research | user empathy, information architecture, accessibility | Turned feedback into a clearer, more usable experience |
-
-**Translation prompt:** **[action]** + **[context]** -> **[role-relevant strength]**
-
-<!--
-Timing: 90 seconds.
-Invite people to translate rather than apologize for previous work. For
-example, restaurant operations can demonstrate prioritization under pressure;
-logistics can demonstrate systems thinking; teaching can demonstrate technical
-communication. Keep claims specific and truthful, then connect them to the
-target role's work.
--->
-
----
-
-# Tell a coherent career-change story
-
-## A simple arc
-
-- **Past:** the strengths and context you already bring
-- **Pivot:** what drew you toward this role family
-- **Proof:** what you learned, built, and finished
-- **Purpose:** why this role and company now
-
-> Past, pivot, proof, and purpose give the story a clear spine.
-
-<!--
-Timing: 45 seconds.
-Career changers need a concise connective story, not an apology or an
-autobiography. The goal is to show how the past, pivot, proof, and purpose fit
-together without turning the answer into a complete life history.
--->
-
----
-
-# Make the story credible
-
-## Connect the move to evidence
-
-- Keep the opening under 90 seconds
-- Connect prior work to the job's core problems
-- Use one concrete example, not your autobiography
-- End forward: what you can contribute next
-
-> Your previous career is context; recent evidence is the bridge.
->
-> [See Haseeb Qureshi's practical job-search guide.](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-
-<!--
-Timing: 45 seconds.
-The story lets interviewers understand the move quickly, then inspect the
-recent proof behind it. Haseeb's guide is practitioner advice from a particular
-market and era, so adapt the approach rather than copying it.
--->
-
----
-
-<!-- _class: invert -->
-
-# 2 / Read the hiring system
-
-<pre class="mermaid">
-flowchart LR
-    A["Role<br/>requirements"] --> B["Sourcing<br/>and referrals"]
-    B --> C["Recruiter<br/>screen"]
-    C --> D["Skills assessment<br/>and interviews"]
-    D --> E["Team fit<br/>and context"]
-    E --> F["Offer"]
-</pre>
-
-> "Team fit" should mean working style, role context, and mutual expectations -
-> not "people like us."
-
-<!--
-Timing: 90 seconds.
-Walk left to right. Requirements define the problem and constraints. Sourcing
-creates a candidate pool. The recruiter checks alignment and logistics.
-Assessments look for role evidence. Team conversations explore collaboration
-and context. The offer aligns scope, level, pay, and start details. Processes
-vary, but candidates can prepare for the question each stage is trying to
-answer.
--->
-
----
-
-# A job description is a wish list with priorities
-
-<div class="columns">
-<div>
-
-## Core requirements
-
-- The central work is clear to you
-- You meet genuine constraints
-- You can show direct or adjacent evidence
-- The largest gaps are learnable
-
-</div>
-<div>
-
-## Often flexible
-
-- The exact tool or version
-- Every preferred qualification
-- An identical title or industry
-- Some experience ranges used as a proxy
-
-</div>
-</div>
-
-> **Apply when the core matches.** Do not claim skills you lack, but do not
-> self-reject because you miss every preferred item.
-
-<!--
-Timing: 90 seconds.
-Separate real constraints such as work authorization, licensure, location, or
-schedule from preferences. Encourage a short gap check: "Can I do the central
-work, can I show evidence, and can I explain the remaining gap?" Applying is a
-request for consideration, not a claim of perfect fit.
--->
-
----
-
-# Your resume is a relevance document
-
-<div class="columns">
-<div>
-
-## Make it scannable
-
-- Clear, conventional headings
-- Selectable text and simple layout
-- Relevant information near the top
-- One version per target role family
-
-</div>
-<div>
-
-## Show evidence
-
-- Accomplishments, not task lists
-- Outcomes, scope, and constraints
-- Projects when they add missing proof
-- Truthful keywords in context
-
-</div>
-</div>
-
-<!--
-Timing: 90 seconds.
-Explain that a resume is not a full autobiography. Its job is to make relevant
-evidence easy for a person and a parser to find.
--->
-
----
-
-# Your resume is a relevance document (continued)
-
-<div class="columns">
-<div>
-
-## Link selectively
-
-Include a portfolio or GitHub only when it is relevant, current, and easy to
-navigate.
-
-</div>
-<div>
-
-**Avoid:** generic objectives, skill bars, keyword dumps, and every tool you
-have ever touched.
-
-</div>
-</div>
-
-<!--
-Tailoring can mean changing the summary, ordering bullets, and selecting
-projects - never copying keywords for skills the candidate cannot discuss.
--->
-
----
-
-<!-- _class: small -->
-
-# Turn duties into evidence
-
-## Before: a generic duty
-
-> "Helped with customer support and updated documentation."
-
-## After: a stronger sample bullet
-
-> **Created** a searchable FAQ from recurring ticket themes, giving customers
-> a self-service path and new teammates a reusable support guide.
-
-### A useful pattern
-
-**Action + context + evidence + result**
-
-No metric? Name an observable outcome: shipped, automated, clarified, adopted,
-reduced handoffs, or enabled another person to act.
-
-<!--
-Timing: 90 seconds.
-Label this explicitly as a fictional sample, not the speaker's work history.
-The improved bullet shows ownership, source material, audience, and outcome
-without inventing a percentage. Ask: What changed? Who used it? What constraint
-did you handle? Quantify only when the number is accurate and meaningful.
--->
-
----
-
-<!-- _class: invert -->
-
-# 3 / Build relationships before you need a referral
-
-<div class="columns">
-<div>
-
-## Networking is
-
-- learning with peers
-- showing up more than once
-- contributing where you can
-- following up with care
-- becoming known as reliable
-
-</div>
-<div>
-
-## Find repeated contact
-
-- local meetups and user groups
-- free community events: code camps, hackathons, conference days
-- online role communities
-- open source, docs, and issue triage
-- alumni and professional groups
-
-</div>
-</div>
-
-> It is **not** transactional contact collecting or mass requests from strangers.
-
-<!--
-Timing: 90 seconds.
-Use this as a section transition from documents to relationships. A useful
-network is built through repeated, respectful interaction. Emphasize that the
-tech community runs a huge number of free events: local meetups, user groups,
-community code camps, and hackathons. Most welcome beginners, and volunteering
-is often a free ticket into paid conferences. Newcomers can contribute by
-welcoming others, taking notes, testing instructions, sharing a resource, or
-reporting a clear issue - not only by writing code.
--->
-
----
-
-<!-- _class: small -->
-
-# Local meetups: show up where tech already gathers
-
-<div class="columns">
-<div>
-
-## Find this week's events
-
-- [Global Nerdy](https://www.globalnerdy.com/category/meetups/) - Joey deVilla's
-  weekly Tampa Bay tech, entrepreneur, and nerd events list
-- [Meetup](https://www.meetup.com/) - search your city plus your target role
-- Local user groups: .NET, Python, JavaScript, data, cloud, security, agile
-- Code camps, DevFests, SQL Saturdays, and hackathons
-
-</div>
-<div>
-
-## Make attendance count
-
-- Pick one or two groups and **return regularly** - familiarity builds trust
-- Ask speakers one specific question; thank the organizers
-- Volunteering at check-in or AV is an easy way to meet everyone
-- Many groups need speakers - a five-minute lightning talk is evidence too
-
-</div>
-</div>
-
-> Most meetups are free, beginner-friendly, and genuinely glad to see new faces.
-
-<!--
-Timing: 90 seconds.
-Tampa Bay has multiple tech events nearly every week. Joey deVilla publishes a
-weekly roundup on Global Nerdy - encourage attendees to bookmark it and pick
-one event from the current list before they leave today. Returning to the same
-group beats sampling a different one every month: organizers and regulars start
-to recognize you, and that recognition is what eventually produces referrals.
-If you adapt this talk for another city, swap in the local equivalent list.
--->
-
----
-
-<!-- _class: small -->
-
-# Make the request easy to answer
-
-## A short outreach template
-
-> Hi **[Name]** - I appreciated your **[talk/post/contribution]** about
-> **[specific topic]**. I am exploring **[target role]** and working on
-> **[small project or skill]**. Could I ask one focused question:
-> **[question]**? No rush to reply. Thanks for sharing **[specific value]**.
-
-<div class="columns">
-<div>
-
-**Good asks**
-
-- perspective on one decision
-- feedback on one artifact
-- a recommended next resource
-
-</div>
-<div>
-
-**Good follow-up**
-
-- thank them
-- share what you tried
-- respect a no or no response
-
-</div>
-</div>
-
-<!--
-Timing: 1 minute.
-Contrast a focused request with "Can I pick your brain?" or an immediate
-referral request. Specificity demonstrates preparation and lets the recipient
-answer briefly. Following up should close the loop, not create pressure.
--->
-
----
-
-<!-- _class: small -->
-
-# Informational interviews: learn, don't pitch
-
-<div class="columns">
-<div>
-
-## The ask
-
-- 15-20 minutes to hear about their path
-- You are learning, not requesting a referral
-- Offer flexible times; keep it easy to say yes
-
-</div>
-<div>
-
-## Good questions
-
-- How did you get into this role?
-- What does a normal week look like?
-- What skills do you wish you had built earlier?
-- What would you look for in someone joining your team?
-
-</div>
-</div>
-
-> Always follow up: one or two takeaways, a thank-you, and what you tried next.
+- Data, AI, and machine learning
+- Design and user experience (UX)
+- Product: how apps get planned and made
+- Explaining tech: writing, video, teaching
 
 <!--
 Timing: 60 seconds.
-An informational interview is a low-pressure conversation to understand a role,
-team, or company - not a disguised job request. Curiosity, not desperation.
-Prepared questions show respect for their time and often surface exactly which
-skills and evidence matter for the role you want. Following up turns a single
-chat into a relationship.
+This is a section transition and a decision point. Stress that "software
+engineering" is only one path. Ask students to notice which work sounds fun to
+try this month, not which title sounds impressive. A backup keeps you flexible
+without meaning "anything in tech."
 -->
 
 ---
 
-<!-- _class: small -->
+<!-- _class: directions -->
 
-# The hidden job market and warm referrals
+# Where do you want to go?
 
-<div class="columns">
-<div>
-
-## Some roles travel through people
-
-- Some jobs are filled through networks before or instead of a public post
-- A referral can help a well-matched candidate get considered
-- Relationships improve access; they are not a trick
-
-</div>
-<div>
-
-## Ask well
-
-- Build rapport first - not after one message
-- Ask when there is a specific, matching role
-- Make it easy: send a short blurb + the link
-- Respect a "no" or a non-answer
-
-</div>
+<div class="direction-grid">
+<div><i class="fa-solid fa-code"></i><strong>Development</strong><span>Write and ship software</span></div>
+<div><i class="fa-solid fa-vial"></i><strong>Testing</strong><span>Quality and automation</span></div>
+<div><i class="fa-solid fa-shield-halved"></i><strong>Security</strong><span>Protect systems and data</span></div>
+<div><i class="fa-solid fa-network-wired"></i><strong>Administration</strong><span>Systems, networks, and IT</span></div>
+<div><i class="fa-solid fa-robot"></i><strong>Data &amp; AI</strong><span>Insight, models, and ML</span></div>
+<div><i class="fa-solid fa-compass"></i><strong>Product</strong><span>Discovery and delivery</span></div>
 </div>
 
-> A warm referral is earned through repeated, respectful contact - never a cold demand.
+---
+
+# You already have useful strengths
+
+| Where it came from | Strengths you built | How it maps to tech |
+|---|---|---|
+| Games and hobbies | problem solving, patience | Debugging, learning systems |
+| Clubs, sports, theater | teamwork, showing up | Collaborating, hitting deadlines |
+| Class projects | research, explaining | Documenting, communicating clearly |
+| A part-time job | responsibility, people skills | Reliability, knowing real users |
+
+**Prompt:** **[something you did]** + **[where]** -> **[strength a tech project needs]**
 
 <!--
-Timing: 90 seconds.
-Explain the "hidden job market": some hiring happens through networks and
-referrals, so applying cold to portals is only part of the search. The goal is
-not to collect contacts but to become someone a person is glad to vouch for.
-When you do ask, make it effortless: a two-line summary of who you are and why
-you fit, plus the job link, so your contact can forward it in seconds. Ties back
-to showing up regularly at Tampa meetups.
+Timing: 75 seconds.
+Students often think they have "no experience." Reframe: the things they already
+do build real strengths. A game speedrun is persistence and system learning; a
+group project is collaboration and deadlines. Keep it specific and true, then
+connect it to tech work.
 -->
 
 ---
 
-# Build a career support network
+<!-- _class: columns invert -->
 
-## Different relationships, different jobs
+# 2 / Build real things<br><small>Small, finished projects are your proof.</small>
 
-- Peers practice, compare notes, and keep you moving
-- Mentors share perspective and feedback
-- Coaches help you examine a decision or habit
-- Sponsors advocate when opportunities are discussed
+## Why build
 
-> Different relationships solve different problems; peers are often the easiest place to start.
+- It turns learning into something real
+- A finished project shows what you can do
+- Building is the fastest way to actually learn
 
-<!--
-Timing: 45 seconds.
-Peers, mentors, coaches, and sponsors each play a different role: practice and
-accountability, perspective and feedback, decision support, and advocacy. For
-people entering tech, peers are often the most accessible source of practice,
-context, accountability, and introductions.
--->
+## What counts
 
----
-
-# Earn trust before asking for advocacy
-
-## Earn trust over time
-
-- Do reliable work people can point to
-- Ask for specific feedback, not vague "mentorship"
-- Share what you tried after receiving advice
-- Help and introduce others when you can
-
-> A mentor helps you prepare; a sponsor uses their credibility to advocate for you.
->
-> [Carla Harris’s TED talk](https://www.ted.com/talks/carla_harris_how_to_find_the_person_who_can_help_you_get_ahead_at_work) · [NCWIT sponsorship resources](https://ncwit.org/resource/sponsor/)
+- A game, a website, or a small script
+- A robot part, a bot, or a mod
+- Anything you can show and explain
 
 <!--
 Timing: 45 seconds.
-Nobody owes anyone sponsorship, and cold-asking someone to be a sponsor usually
-misses how trust and advocacy develop. Reliable work, specific feedback, and
-follow-through give someone a reason to use their credibility on your behalf.
+This is the heart of the talk: you learn by making things. Stress that "project"
+can be tiny and still count - a Scratch game, a one-page site, a robot subsystem.
+The goal is small and finished, not big and unfinished, so you have something to
+show and talk about later.
 -->
 
 ---
-
-<!-- _class: small -->
 
 # Build skills in a tight loop
 
@@ -642,36 +174,34 @@ follow-through give someone a reason to use their credibility on your behalf.
 
 ## The loop
 
-1. Choose **one target role**
-2. Learn enough fundamentals to begin
-3. Build a **small, complete** project
-4. Document decisions and tradeoffs
-5. Ask for specific feedback
-6. Repeat with one harder constraint
+1. Pick **one area** that sounds fun
+2. Learn just enough to start
+3. Build a **small, finished** project
+4. Write down what you tried
+5. Show it and ask for feedback
+6. Do it again, a little harder
 
 </div>
 <div>
 
 ## Guardrails
 
-- Learn to unblock the next action
+- Only learn what unblocks you
 - Finish before adding features
-- Keep scope small enough to explain
-- Track questions and decisions
-- Reduce scope before adding hours
+- Keep it small enough to explain
+- Jot down questions and decisions
+- Shrink scope before adding hours
 
 </div>
 </div>
 
-> Progress becomes visible when learning produces something another person can
-> inspect, run, discuss, or use.
+> Learning gets real when it becomes something someone can play, run, or look at.
 
 <!--
-Timing: 90 seconds.
-Discourage endless tutorial consumption and oversized capstones. "Complete"
-can be tiny: a script with tests, a dashboard with a documented dataset, a
-runbook tested in a lab, or a usability study with findings. The next loop
-should deepen one dimension rather than restart from zero.
+Timing: 75 seconds.
+Discourage endless tutorials and giant "someday" projects. "Finished" can be
+tiny: a Scratch or MakeCode game, a one-page website, a small script, or a robot
+subsystem. The next loop should add one new challenge, not restart from zero.
 -->
 
 ---
@@ -681,661 +211,1139 @@ should deepen one dimension rather than restart from zero.
 <div class="columns">
 <div>
 
-## Everyday leverage
+## Worth learning early
 
-- The shell and command line
-- Editor navigation and a debugger
-- Git: branches, diffs, merges, and recovery
-- Tests, logs, documentation, and automation
+- The command line / terminal basics
+- Your editor (like [VS Code](https://code.visualstudio.com/)) and a debugger
+- [Git and GitHub](https://skills.github.com/): save and share code
+- Reading errors and searching them well
 
 </div>
 <div>
 
-## Practice in context
+## Practice by doing
 
-- Automate one repetitive task
-- Recover from a deliberate Git mistake
-- Debug with a hypothesis before searching
-- Explain a tool choice and its tradeoff
+- Automate one boring, repetitive task
+- Break something on purpose, then fix it
+- Guess what's wrong before you Google it
+- Explain why you picked a tool
 
 </div>
 </div>
 
-> Tool fluency turns fundamentals into finished, supportable work.
+> Knowing the tools around the code makes projects way easier to finish.
 
 <!--
-Timing: 75 seconds.
-Courses often teach a language without teaching the workflow around it. Tool
-fluency makes projects easier to finish and produces more concrete interview
-stories about debugging, recovery, and tradeoffs. AI tools belong in that
-workflow, but they do not replace debugging, version control, or understanding.
-Point attendees to MIT's Missing Semester on the curated reading slide.
+Timing: 60 seconds.
+Courses teach a language but skip the workflow around it. A little comfort with
+the terminal, an editor, Git/GitHub, and reading errors makes projects easier to
+finish - and gives great stories about debugging and fixing mistakes. AI tools
+help here too, but they don't replace understanding.
 -->
 
 ---
 
-<!-- _class: small -->
-
-# A credible project is easy to evaluate
+# A good project is easy to check out
 
 <div class="columns">
 <div>
 
 ## Explain it
 
-- README: problem, audience, and scope
-- Setup instructions that actually work
-- Decisions, alternatives, and tradeoffs
-- Known limitations and a next step
+- A README: what it is and who it's for
+- Steps to run it that actually work
+- What you chose and why
+- What's not done yet, and your next step
 
 </div>
 <div>
 
-## Prove it
+## Show it
 
-- Tests appropriate to the risk
-- Demo, screenshots, or sample output
-- Deployment when the role values it
-- Clear ownership of your contribution
+- A screenshot, GIF, or short demo video
+- A link to try it (game, site, or repo)
+- Sample input and output
+- What part you built
 
 </div>
 </div>
 
-**Match proof to the role:** data (query + validation), cloud/support (runbook +
-logs), security (threat model + safe lab), UX (research + decisions).
+**Match it to the area:** a game (playable link), data (a chart), a website (a
+live link), hardware (a photo or video of it working).
 
 <!--
-Timing: 90 seconds.
-Explain that credibility comes from making evaluation easy, not from project
-size. A reviewer should understand the problem, reproduce the work, and see
-how the candidate thinks. Not every project needs every artifact: choose tests,
-deployment, diagrams, or a demo based on the target role and project risk.
+Timing: 75 seconds.
+Credibility comes from making a project easy to understand and try - not from how
+big it is. A reviewer should get what it does, run or watch it, and see how you
+think. Not every project needs everything: pick a demo, a screenshot, or a link
+that fits what you built.
 -->
 
 ---
 
-# GitHub is a free classroom - and open source is open to you
+# Free places to learn (really free)
 
-## Learn languages
-
-<div class="columns">
-<div>
-
-- [GitHub Skills](https://skills.github.com/) - guided, hands-on courses
-- Full curricula live on GitHub: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp), [Exercism](https://github.com/exercism)
-
-</div>
-<div>
-
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - learn by rebuilding tools
-- Read real code: the languages you use are developed in the open
-
-</div>
-</div>
-
-<!--
-Timing: 90 seconds.
-Point out that Python, .NET, and Node.js are all developed publicly on GitHub,
-so learners can read real code, watch decisions being made, and see what
-professional collaboration looks like before their first job.
--->
-
----
-
-# Contribute / Why it works
+## Start here
 
 <div class="columns">
 <div>
 
-- [Open Source Guides](https://opensource.guide/) - how contributing works
-- [goodfirstissue.dev](https://goodfirstissue.dev/) and [Up For Grabs](https://up-for-grabs.net/) - curated starter issues
-- [First Contributions](https://github.com/firstcontributions/first-contributions) - practice the PR flow safely
-- Docs, tests, triage, and translations all count
+- [Experience CS](https://experience-cs.org/units) - CS units made for classrooms
+- [freeCodeCamp](https://www.freecodecamp.org/) and [Foundational C#](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+- [Microsoft Learn](https://learn.microsoft.com/training/) - guided paths and badges
 
 </div>
 <div>
 
-- Public, inspectable evidence tied to your profile
-- Feedback from experienced maintainers - for free
-- Real collaboration: issues, PRs, and code review
-- Every merged contribution is an interview story
+- [GitHub Skills](https://skills.github.com/) - hands-on, guided courses
+- [Scratch](https://scratch.mit.edu/) and [MakeCode Arcade](https://arcade.makecode.com/) - build games fast
+- [Minecraft Education CS](https://education.minecraft.net/en-us/resources/computer-science)
 
 </div>
 </div>
 
 <!--
-Demystify open source: it is not just elite programmers - projects need docs,
-tests, issue triage, translations, and reproduction of bug reports. First
-Contributions is a repo built specifically for practicing your first pull
-request.
+Timing: 75 seconds.
+There are excellent free, beginner-friendly places to learn - no paid course
+required. Scratch and MakeCode make the first project fun; Experience CS,
+freeCodeCamp, Microsoft Learn, and GitHub Skills go deeper. Point out that the
+languages they use (Python, C#, JavaScript) are built in the open on GitHub.
 -->
 
 ---
 
-<!-- _class: small -->
-
-# Learn in public - let your work be found
+# AI is everywhere - learn to use it well
 
 <div class="columns">
 <div>
 
-## Share the process, not just the result
+## Why it's a big deal
 
-- Post what you built, learned, or debugged
-- Write the guide you wish you had found
-- "Own your namespace": a domain, a profile, a consistent handle
-- Show, don't tell - link to work people can inspect
+- It's in apps, search, art, and code
+- Almost every field uses it now
+- Using it *well* is a real skill
+- You don't need to be an expert
+
+</div>
+<div>
+
+## Use it with judgment
+
+- Good for explaining and first drafts
+- It can be **confidently wrong** - check it
+- Don't trust it with private info or facts
+- Play with it: test ideas, remix
+
+</div>
+</div>
+
+> A power tool: know what it's great at, where it breaks, and when to double-check.
+
+<!--
+Timing: 75 seconds.
+Acknowledge AI is a huge, fast-moving deal that shows up everywhere students
+already are. The skill isn't just "using AI" - it's using it well: knowing what
+it's good at (explaining, drafting, brainstorming), where it breaks down (it
+makes things up, struggles with math, can't be trusted with private info), and
+treating it as a playground to try ideas quickly. Curiosity plus a healthy dose
+of "verify it" is the mindset.
+-->
+
+---
+
+# Learn AI for free - and run it yourself
+
+<div class="columns">
+<div>
+
+## Free courses
+
+- [Elements of AI](https://www.elementsofai.com/) - a gentle intro
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Kaggle Learn](https://www.kaggle.com/learn) - hands-on lessons
+- [Hugging Face](https://huggingface.co/learn) - a free course
+
+</div>
+<div>
+
+## Try it yourself
+
+- [Copilot](https://github.com/features/copilot) - free for students
+- Run models locally: [Ollama](https://ollama.com/), [LM Studio](https://lmstudio.ai/)
+- Local = free, private, offline
+- Build a tiny chatbot or classifier
+
+</div>
+</div>
+
+> Run real AI on your own laptop - free and private. Check age rules and ask a parent.
+
+<!--
+Timing: 75 seconds.
+There are excellent free ways to learn AI - no expensive course needed. Elements
+of AI and Microsoft's Generative AI for Beginners are gentle on-ramps; Kaggle and
+Hugging Face are hands-on. Highlight local models: Ollama and LM Studio let
+students run real LLMs on their own machine - free, private, and offline, which
+is a great safe sandbox to experiment. Note age requirements on hosted chat
+tools and getting a parent's OK.
+-->
+
+---
+
+# Try contributing to open source
+
+<div class="columns">
+<div>
+
+- [Open Source Guides](https://opensource.guide/) - how it all works
+- [goodfirstissue.dev](https://goodfirstissue.dev/) - beginner-friendly tasks
+- [First Contributions](https://github.com/firstcontributions/first-contributions) - practice your first pull request safely
+- Fixing docs, typos, or tests all count
+
+</div>
+<div>
+
+- Real work that lives on your GitHub profile
+- Free feedback from experienced developers
+- See how teams actually work together
+- Every fix is a story you can tell later
+
+</div>
+</div>
+
+<!--
+Timing: 60 seconds.
+Demystify open source: it's not just expert programmers. Projects need docs,
+tests, typo fixes, and translations. First Contributions is a repo built just
+for practicing your first pull request. Even a tiny merged change is real,
+public evidence and a great story.
+-->
+
+---
+
+# Share what you're learning
+
+<div class="columns">
+<div>
+
+## Show the process, not just the result
+
+- Post what you built, learned, or fixed
+- Make the guide you wish you'd found
+- Keep a simple profile or portfolio page
+- Show, don't tell - link to real work
 
 </div>
 <div>
 
 ## Why it works
 
-- Employers see real growth, not just claims
-- Your brand is what search results say when you are not in the room
-- People remember, recognize, and refer you
+- People see real growth, not just claims
+- Your projects speak when you're not there
+- People remember and think of you
 - Opportunities start to find you
 
 </div>
 </div>
 
-> Inspired by Shawn "swyx" Wang, *Learn in Public*, and Scott Hanselman, *Developing Your Personal Brand*.
+> Share only public, school-safe work - no personal info, and check with a parent
+> about accounts. Inspired by *Learn in Public* (swyx).
 
 <!--
-Timing: 90 seconds.
-Learning in public means sharing work-in-progress: a short blog post, a README,
-a lightning talk, or a thread about a bug you fixed. You do not need to be an
-expert - you help the person one step behind you. Over time this becomes a
-public, searchable record of how you think and learn, which is exactly what
-hiring managers want to see. Encourage attendees to pick one channel and post
-one small thing this month.
+Timing: 75 seconds.
+Learning in public means sharing work-in-progress: a short post, a README, a
+demo video, or a thread about a bug you fixed. You don't need to be an expert -
+you help the person one step behind you. Add a safety note: share only public,
+school-appropriate work, keep personal details private, and follow age rules on
+platforms (get a parent's OK).
 -->
 
 ---
 
-<!-- _class: small -->
-
-# Keep a career notebook
+# Keep a project journal
 
 <div class="columns">
 <div>
 
-## Capture as you go
+## Jot it down as you go
 
-- What you shipped, fixed, automated, or learned
-- The problem, your decision, and the outcome
-- Feedback, thank-you notes, and metrics
-- Dates and links to the work
+- What you built, fixed, or learned
+- The problem, what you tried, how it went
+- Screenshots, links, and dates
+- Nice feedback you got
 
 </div>
 <div>
 
 ## Why it pays off
 
-- Resume bullets write themselves
-- Ready-made STAR stories for interviews
-- Evidence for reviews, raises, and promotions
-- A cure for "I can't remember what I did"
+- Applications and resumes get easy to write
+- Ready-made stories for interviews
+- Proof for scholarships and programs
+- Fixes "wait, what did I even do?"
 
 </div>
 </div>
 
-> A running "[brag doc](https://jvns.ca/blog/brag-documents/)" also quiets imposter syndrome - proof beats doubt.
+> A running list of your wins also quiets self-doubt - proof beats "I'm not good enough."
 
 <!--
 Timing: 60 seconds.
-Credit Scott Hanselman's advice to keep a developer/career notebook alongside
-Julia Evans's canonical brag-document guidance. Most people forget their own
-wins within weeks. A simple running document - even a notes app - captures
-accomplishments while they are fresh. It becomes the raw material for resumes
-and interview stories, and reviewing it is a concrete antidote to imposter
-syndrome.
+Most people forget their own wins within weeks. A simple running note - even in a
+phone app - captures what you did while it's fresh. It becomes the raw material
+for applications, resumes, and interview stories, and rereading it is a real
+antidote to feeling like you haven't done anything.
 -->
 
 ---
 
 <!-- _class: invert -->
 
-# 4 / Interviewing is a practiced skill, not a personality test
+# 3 / Find your people
+
+<div class="columns">
+<div>
+
+## Being part of a community is
+
+- learning alongside other people
+- showing up more than once
+- helping out where you can
+- saying thanks and following up
+- becoming known as reliable
+
+</div>
+<div>
+
+## Where to find them
+
+- school clubs: coding, robotics, esports
+- FIRST Robotics teams and hackathons
+- online communities for what you're into
+- Discord servers, forums, and open source
+- library and community center events
+
+</div>
+</div>
+
+> It's **not** collecting contacts or DMing strangers - it's showing up and being helpful.
+
+<!--
+Timing: 75 seconds.
+Section transition from projects to people. A useful community is built through
+repeated, friendly participation - not one-off requests. Point out how many free
+options exist: school clubs, robotics teams, hackathons, and online communities.
+You can help by welcoming others, sharing a resource, or reporting a clear bug -
+not only by writing code. Mention basic online safety: keep personal info
+private and loop in a trusted adult.
+-->
+
+---
+
+# Where tech gathers near you
+
+<div class="columns">
+<div>
+
+## Places to look
+
+- School clubs: coding, robotics, esports
+- [FIRST Robotics](https://www.firstinspires.org/programs/frc/) and competitions
+- Student hackathons (like [MLH](https://mlh.io/))
+- Library and [Meetup](https://www.meetup.com/) events
+
+</div>
+<div>
+
+## Make it count
+
+- Pick one and **keep showing up**
+- Ask a question; thank the organizer
+- Volunteer to help set up
+- Even a 5-minute demo counts
+
+</div>
+</div>
+
+> Most are free and beginner-friendly. Bring a friend or trusted adult.
+
+<!--
+Timing: 75 seconds.
+Encourage students to find one recurring thing - a school club, a robotics team,
+or a student hackathon - and return to it. Familiarity is what turns into
+mentors and opportunities. Include a safety note: attend in-person events with a
+friend or trusted adult and keep personal details private online.
+-->
+
+---
+
+# Make it easy for someone to say yes
+
+## A short message template
+
+> Hi **[Name]** - I liked your **[video/project/talk]** about **[topic]**. I'm a
+> student learning **[thing]** and building **[small project]**. Could I ask one
+> question: **[question]**? No rush - thanks!
+
+<div class="columns">
+<div>
+
+**Good asks**
+
+- their take on one decision
+- feedback on one project
+- a good next thing to learn
+
+</div>
+<div>
+
+**Stay safe**
+
+- use public, school, or club channels
+- tell a parent or teacher
+- never share private contact details
+
+</div>
+</div>
+
+<!--
+Timing: 60 seconds.
+A specific, short message is easy to answer - much better than "can you mentor
+me?" Model good follow-up: thank them and share what you tried. Reinforce
+safety: use public/official channels, keep an adult in the loop, and never share
+private details with people online.
+-->
+
+---
+
+# Ask someone about their path
+
+<div class="columns">
+<div>
+
+## The ask
+
+- 15 minutes to hear how they got into tech
+- You're curious, not asking for a job
+- Offer a few times; make it easy to say yes
+
+</div>
+<div>
+
+## Good questions
+
+- How did you get started?
+- What does a normal day look like?
+- What do you wish you'd learned earlier?
+- What should a student like me try first?
+
+</div>
+</div>
+
+> Always follow up: one or two takeaways, a thank-you, and what you tried next.
+> A teacher, family friend, or older student is a great first person to ask.
+
+<!--
+Timing: 60 seconds.
+This is a low-pressure, curious conversation - not a job request. Prepared
+questions show respect and surface what actually matters. Great first people:
+teachers, counselors, family friends in tech, or older students and alumni.
+Following up turns one chat into a relationship.
+-->
+
+---
+
+# Good things come through people you know
+
+<div class="columns">
+<div>
+
+## It's word of mouth
+
+- A teacher mentions a program
+- A friend invites you to a team
+- A club leader hears about an internship
+- People suggest you when they know your work
+
+</div>
+<div>
+
+## Be that person
+
+- Show up and help out
+- Let people see what you build
+- Say what you're looking for
+- Say thanks and pass it on
+
+</div>
+</div>
+
+> You don't get picked by staying invisible - being known and reliable opens doors.
+
+<!--
+Timing: 75 seconds.
+Reframe the "hidden job market" for students: many opportunities (programs,
+contests, internships, first jobs) spread by word of mouth through teachers,
+clubs, and friends. The goal isn't to collect contacts - it's to be someone
+people think of because they've seen your work and know what you want.
+-->
+
+---
+
+# Different people help in different ways
+
+## Build a little support crew
+
+- **Friends and peers** practice with you and keep it fun
+- **Mentors** share advice and honest feedback
+- **Teachers and counselors** know programs and opportunities
+- **Older students and alumni** have just been where you are
+
+> You don't need all of them at once - friends and one caring adult are a great start.
+
+<!--
+Timing: 45 seconds.
+Each relationship does something different: peers for practice and momentum,
+mentors for perspective, teachers/counselors for access to programs, and
+slightly-older students for relatable, recent advice. Peers and one supportive
+adult are the most accessible starting point.
+-->
+
+---
+
+# Be someone people want to help
+
+## Trust is built over time
+
+- Do what you say you'll do
+- Ask for specific feedback, not "will you mentor me?"
+- Share what you tried after getting advice
+- Help others and share credit
+
+> People go out of their way for someone who is reliable, curious, and kind - not
+> for whoever asks the most.
+
+<!--
+Timing: 45 seconds.
+Nobody owes anyone their time, and cold-asking "be my mentor" usually misses how
+trust works. Reliable follow-through, specific questions, and helping others give
+people a reason to invest in you. This is true for teachers, mentors, and
+teammates alike.
+-->
+
+---
+
+<!-- _class: invert -->
+
+# 4 / Show up and apply
+
+<pre class="mermaid">
+flowchart LR
+    A["Learn a<br/>little"] --> B["Build<br/>something"]
+    B --> C["Share your<br/>work"]
+    C --> D["Meet people<br/>and clubs"]
+    D --> E["An opportunity<br/>appears"]
+    E --> F["Apply or<br/>say yes"]
+</pre>
+
+> Most first opportunities - a club role, a summer program, an internship - come
+> from having something to show and people who know you.
+
+<!--
+Timing: 75 seconds.
+Walk left to right. You do not need to finish everything before starting; each
+step feeds the next. A little learning lets you build; building gives you
+something to share; sharing helps you meet people; those people and projects are
+how internships, programs, and first jobs actually find you.
+-->
+
+---
+
+# A posting is a wish list, not a checklist
+
+<div class="columns">
+<div>
+
+## What really matters
+
+- You understand the main thing they want
+- You are eligible (age, grade, location)
+- You can show something related
+- The gaps are things you can learn
+
+</div>
+<div>
+
+## Often flexible
+
+- The exact language or tool
+- "Preferred" experience you don't have yet
+- A perfect match to every bullet
+- Years of experience for entry programs
+
+</div>
+</div>
+
+> **Apply when the main thing matches.**
+
+<!--
+Timing: 75 seconds.
+Applies to internships, summer programs, and first jobs. Separate real rules
+(age, grade, eligibility) from wish-list items. Encourage a quick check: "Do I
+get the main thing, can I show something related, and can I learn the rest?"
+Applying is asking to be considered, not claiming a perfect fit.
+-->
+
+---
+
+# Your first resume is short and real
+
+<div class="columns">
+<div>
+
+## Keep it simple
+
+- One page, clear headings, easy to read
+- Projects, clubs, and skills near the top
+- Coursework and activities that fit
+- It's fine to be new - show what you've done
+
+</div>
+<div>
+
+## Show what you made
+
+- Things you built, not just "member of"
+- What it does and your part in it
+- Links to a project, game, or repo
+- Honest skills you could actually talk about
+
+</div>
+</div>
+
+<!--
+Timing: 75 seconds.
+A student resume is not an autobiography. Its job is to make your real
+activities - projects, clubs, a class you loved - easy to see. "New" is normal;
+one finished project beats a long list of buzzwords.
+-->
+
+---
+
+# Show your work, skip the fluff
+
+<div class="columns">
+<div>
+
+## Link to something real
+
+Add a GitHub, itch.io, or portfolio link when it's current and easy to open. One
+good project you can explain beats ten half-finished ones.
+
+</div>
+<div>
+
+**Skip:** fake "objectives," skill bars, and listing every app you've ever
+opened. Ask an adult you trust to proofread it.
+
+</div>
+</div>
+
+---
+
+# Turn "I helped" into evidence
+
+<div class="columns">
+<div>
+
+## Before: a vague line
+
+> "Was in robotics club and helped with the code."
+
+</div>
+<div>
+
+## After: a stronger sample line
+
+> **Programmed** the arm controls for our team's robot and wrote a guide so the
+> next team can reuse it.
+
+</div>
+</div>
+
+### A useful pattern
+
+**Action + context + what you made + result**
+
+No numbers? Name a real outcome: built, fixed, explained, or made something easier.
+
+---
+
+# Talking about your work is a skill
 
 <div class="columns">
 <div>
 
 ## Explain
 
-- your approach before the answer
-- decisions and tradeoffs
-- how you handle unknowns
-- where collaboration helped
+- what you were trying to do
+- the choices you made
+- how you figured out the hard parts
+- where a teammate helped
 
 </div>
 <div>
 
-## Prepare stories
+## Prepare a few stories
 
 Use **STAR**:
 
 - Situation
 - Task
 - Action
-- Result and reflection
+- Result (and what you learned)
 
 </div>
 </div>
 
 <!--
-Timing: 90 seconds.
-Encourage practice aloud with a peer or recording. For technical questions,
-clarify assumptions and narrate decisions instead of bluffing. For behavioral
-stories, spend most time on the candidate's actions and reflection.
+Timing: 75 seconds.
+Whether it's a club, a program, a scholarship, or a first job, being able to talk
+about your work is a learnable skill. Practice out loud with a friend or by
+recording yourself. STAR keeps a story clear: set the scene, your job, what you
+did, and how it turned out.
 -->
 
 ---
 
-<!-- _class: invert -->
+# Talking about your work (continued)
 
-# Interviewing is a practiced skill, not a personality test (continued)
-
-Practice learning, conflict, failure, impact, and ambiguity.
+Have a story ready about learning something hard, a mistake, and a team moment.
 
 <div class="columns">
 <div>
 
-## Ask the team
+## Good questions to ask them
 
-- What does success look like?
-- How is feedback given?
-- What support exists for learning?
-- What is the hardest current problem?
+- What does a typical day or project look like?
+- How would I get feedback?
+- What could I learn here?
+- What's the most fun part?
 
 </div>
 <div>
 
-> After each loop: capture what surprised you -> adjust practice -> try again.
-> Rejection is data about this match, not a verdict on your identity.
+> After each try: notice what surprised you -> adjust -> try again.
+> A "no" is about the match, not about you.
 
 </div>
 </div>
 
 <!--
-Questions for the team make the interview a two-way evaluation.
+Timing: 60 seconds.
+Asking thoughtful questions makes it a two-way conversation and shows genuine
+interest. Reinforce the growth framing: every interview or tryout is practice,
+and a rejection is information about fit - not a verdict on their worth.
 -->
 
 ---
 
-<!-- _class: small -->
+# Tell your story simply
 
-# Technical interviews: think out loud
+## A simple arc
+
+- **Spark:** what first got you curious about tech
+- **Explored:** the classes, clubs, or tutorials you tried
+- **Made:** a project or thing you built and finished
+- **Next:** what you want to learn or do next
+
+> Spark, explored, made, and next give your story a clear spine - for a club, a
+> teacher, an application, or a mentor.
+
+<!--
+Timing: 45 seconds.
+Now that students have explored, built, and met people, they have a real story to
+tell. This short arc helps a mentor, teacher, or program understand where they
+are and what they want. Keep it to a few sentences; the "made" part is where a
+real project makes the story land.
+-->
+
+---
+
+# Make your story real
+
+## Back it up with something you made
+
+- Keep it short - a minute is plenty
+- Point to one thing you actually built or did
+- Use one real example, not a list of everything
+- End forward: what you want to try next
+
+> Talk is cheap; a small project you can show is the bridge. Even a Scratch game
+> or a simple website counts.
+
+<!--
+Timing: 45 seconds.
+The story helps people understand you quickly, then a small piece of real work -
+one of the projects from earlier in this talk - makes it believable. Remind
+students that "evidence" can be tiny and still count: a game, a website, a
+script, a robot subsystem.
+-->
+
+---
+
+# If you get a coding challenge: think out loud
 
 <div class="columns">
 <div>
 
 ## A repeatable approach
 
-1. Clarify the problem and edge cases
+1. Restate the problem in your own words
 2. Say your plan before you code
-3. Start simple, then optimize
-4. Test with examples, including edges
-5. Name the time and space tradeoffs
+3. Start simple, then improve
+4. Test it with a few examples
+5. Talk through what could go wrong
 
 </div>
 <div>
 
 ## Practice like it's a skill
 
-- It is a practiced skill, not a talent
-- Mock interviews: [Pramp](https://www.pramp.com/), [interviewing.io](https://interviewing.io/), or a peer
-- Reps on [LeetCode](https://leetcode.com/) / [HackerRank](https://www.hackerrank.com/)
-- Partial progress out loud beats silent stalling
+- It's practice, not natural talent
+- Try [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), or [Advent of Code](https://adventofcode.com/)
+- Work through problems with a friend
+- Thinking out loud beats going silent
 
 </div>
 </div>
 
-> Interviewers hire for how you think, not for instant perfect answers.
+> People care how you think, not whether you're instantly perfect.
 
 <!--
-Timing: 90 seconds.
-The single most common mistake is going silent. Narrate: restate the problem,
-state assumptions, propose a brute-force approach, then improve it. This mirrors
-Cracking the Coding Interview and the Tech Interview Handbook. Mock interviews
-with a peer or a platform build fluency and reduce nerves. For a career-change
-or entry audience, emphasize communication and structure over memorizing
-esoteric algorithms.
+Timing: 75 seconds.
+The most common mistake is going silent. Narrate: restate the problem, say a
+simple plan, try it, then improve. This matters for CS class, competitions,
+and future interviews. For students, emphasize communication and steady practice
+over memorizing tricky algorithms.
 -->
 
 ---
 
-<!-- _class: small -->
-
-# If they ask you to design something
+# If they ask "how would you build that?"
 
 <div class="columns">
 <div>
 
 ## Start with the problem
 
-- Clarify requirements and who the users are
-- State your assumptions out loud
-- Sketch the main pieces: client, service, data store
+- Ask who it's for and what it needs to do
+- Say your assumptions out loud
+- Sketch the main parts on paper
 
 </div>
 <div>
 
 ## Keep it honest
 
-- Show the data flow end to end
-- Name one or two tradeoffs (simple vs. scalable)
-- Do not overengineer - a clear simple design wins
-- "I would learn X here" is a fine answer
+- Walk through how it works
+- Name one tradeoff (simple vs. fancy)
+- Don't overthink it - a clear simple idea wins
+- "I'd look that part up" is a totally fine answer
 
 </div>
 </div>
 
-> For early roles, clear thinking and tradeoffs matter more than buzzwords.
+> Clear thinking beats buzzwords. Nobody expects you to know everything.
 
 <!--
 Timing: 60 seconds.
-Only some early-career interviews include a light design discussion. Reassure
-attendees: they are not expected to design a global system. Clarify, diagram a
-few components, trace how data moves, and mention one tradeoff. Reference the
-System Design Primer on GitHub as a free study resource. Naming an unknown
-honestly is better than bluffing.
+Only some interviews include a light "how would you build this" chat. Reassure
+students: they aren't expected to design something huge. Ask questions, sketch a
+few parts, walk through how it works, and name one tradeoff. Saying "I'd learn
+that" honestly is better than bluffing.
 -->
 
 ---
 
-<!-- _class: small -->
-
-# Work with AI - and keep your fundamentals
+# Use AI as a helper, not a crutch
 
 <div class="columns">
 <div>
 
-## Use it as an amplifier
+## Use it to learn faster
 
-- Scaffold, draft, and debug faster with [Copilot](https://github.com/features/copilot) or a chat assistant
-- Then own the logic - review and understand every line
-- Be ready to explain how you used it responsibly
+- Ask [Copilot](https://github.com/features/copilot) or a chatbot to explain and unstick you
+- Then understand every line - don't just paste it
+- Be ready to explain how it works yourself
 
 </div>
 <div>
 
-## Do not skip the reps
+## Still do the reps
 
-- Practice coding and debugging without help too
-- Resumes are parsed by software: clean, relevant, truthful
-- As AI writes the boilerplate, judgment and communication matter more
+- Practice coding and problem-solving on your own too
+- Follow your school's rules on AI and honesty
+- As AI writes the easy parts, thinking clearly matters more
 
 </div>
 </div>
 
-> "I used Copilot to scaffold it, then optimized the logic myself" is a strong, honest story.
+> "I used AI to get unstuck, then I understood and finished it myself" is the goal.
 
 <!--
-Timing: 90 seconds.
-Employers increasingly expect candidates to use AI tools well - as a
-productivity multiplier, not a crutch. Show that you can direct the tool and
-still understand the result; over-reliance that erodes fundamentals is a risk.
-Note that applicant tracking systems parse resumes automatically, reinforcing
-the earlier point about clean, scannable, truthful documents. As AI handles
-routine code, problem framing, collaboration, and responsible use become the
-differentiators. The curated reading slide links IEEE Spectrum and Karat
-perspectives on how AI is changing technical interviews.
+Timing: 75 seconds.
+Students will use AI - teach them to use it well: as a tutor and helper, not a
+copy-paste machine. They should understand what it produces and be able to
+explain it. Add an academic-honesty note: follow the teacher's and school's
+rules about AI on assignments. Skills like problem framing still matter most.
 -->
 
 ---
 
-# When an offer arrives, slow down
+# Choosing your next step
 
 <div class="columns">
 <div>
 
-## Evaluate the whole deal
+## Look at the whole thing
 
-- Role scope, expectations, and how success is measured
-- Manager, team, and learning support
-- Work mode, schedule, on-call, and travel
-- Base pay, bonus, equity, and benefits
+- What will you actually learn or make?
+- Who runs it, and are they supportive?
+- Does it fit your schedule and school?
+- Cost, travel, and whether you'll enjoy it
 
 </div>
 <div>
 
-## Respond deliberately
+## Decide thoughtfully
 
-- Ask for details in writing
-- Take reasonable time to review
-- Compare offer with must-haves and market ranges
-- Ask respectfully where flexibility exists
-- Confirm any changes in writing
+- Ask questions before you commit
+- Talk it over with a parent or mentor
+- Compare it to how you want to spend your time
+- It's okay to say "not right now"
 
 </div>
 </div>
 
-> An offer is a mutual decision, not a finish line.
+> Pick the next class, club, program, or project on purpose - not just because it's there.
 
 <!--
-Timing: 90 seconds.
-Evaluate fit, the manager, learning, and practical constraints, not just salary.
-Negotiation advice varies with leverage, identity, location, and risk tolerance;
-Haseeb Qureshi's guide on the curated reading slide is practitioner perspective,
-not a universal rulebook. Negotiation is never risk-free, so respond deliberately
-and choose what fits your context.
+Timing: 75 seconds.
+Students face choices too: which class, club, camp, program, or internship. The
+skill is the same - look past the label at what you'll learn, who's involved,
+and whether it fits your life. Encourage them to ask questions and talk it over
+with a trusted adult before committing.
 -->
 
 ---
 
-<!-- _class: small -->
+# A one-month experiment (a few hours a week)
 
-# A 30-day experiment
-
-| Week | Focus | Concrete actions |
+| Week | Focus | What to do |
 |---|---|---|
-| **1** | Choose | Select one role family; review 8-10 current postings; extract recurring core signals; inventory evidence and gaps |
-| **2** | Learn | Pick one fundamental; schedule three focused sessions; write a one-page project brief |
-| **3** | Ship | Build the smallest complete version; add a README and appropriate proof; request feedback from two people |
-| **4** | Connect + practice | Join one community activity; send two specific messages; rehearse stories; tailor and apply to a few well-matched roles |
+| **1** | Choose | Pick one area that sounds fun; try a short tutorial; write down one small project idea |
+| **2** | Learn | Learn just enough to start; do three short practice sessions; sketch your project |
+| **3** | Build | Make the smallest finished version; add a README or demo; show it to two people |
+| **4** | Share + connect | Post it or add it to GitHub; join one club or online group; find one program or contest to try |
 
 <!--
-Timing: 90 seconds.
-Present this as an experiment, not a moral test. The numbers create a concrete
-starting point and can be reduced. The sequence matters more than the volume:
-choose, learn, ship, then connect and practice with something real to discuss.
+Timing: 75 seconds.
+Present this as an experiment, not a test - a few hours a week around school. The
+sequence matters more than the hours: choose, learn, build, then share and
+connect with something real to talk about. Any week can be shrunk on a busy week.
 -->
 
 ---
 
-# Make the plan sustainable
+# Make it fit around school
 
 <div class="columns">
 <div>
 
 ## Example weekly cadence
 
-- Learn: `2 x 45 min`
-- Build: `1 x 90 min`
-- Community: `1 x 30 min`
-- Apply/interview: `1 x 30 min`
+- Learn: `2 x 30 min`
+- Build: `1 x 60 min`
+- Club or community: `1 x 30 min`
+- Explore something new: `1 x 30 min`
 
 </div>
 <div>
 
-## End-of-week review
+## End-of-week check-in
 
 - What did I finish?
-- What evidence exists now?
-- What feedback did I receive?
-- What used too much energy?
+- What did I make or learn?
+- What feedback did I get?
+- What felt like too much?
 
 </div>
 </div>
 
-> Protect recovery time. Reduce scope before increasing hours.
+> Homework and rest come first. Shrink the plan before you drop it entirely.
 
 <!--
-Timing: 1 minute.
-Invite attendees to scale this example around their lives. A useful system
-creates evidence without requiring constant urgency. At the end of each week,
-keep, change, or drop parts of the plan based on results and available energy.
+Timing: 60 seconds.
+Invite students to scale this around school, activities, and rest. A good routine
+makes progress without burning out. At the end of each week, keep, change, or
+drop parts based on how it went and how much time they actually have.
 -->
 
 ---
 
-<!-- _class: small -->
-
-# Rejection is data - run the search like a system
+# "No" is normal - keep going
 
 <div class="columns">
 <div>
 
-## Normalize it
+## It happens to everyone
 
-- Volume and automation mean many silent "no"s
-- A rejection is about one match, not your worth
-- Reflect, adjust one thing, and send the next
+- Not making a team or program is common
+- A "no" is about one match, not your worth
+- Notice one thing to improve, then try again
 
 </div>
 <div>
 
-## Track it
+## Keep it steady
 
-- A simple sheet: role, date, stage, next step
-- Notice what earns replies and interviews
-- Lean on a community for accountability and morale
+- Track what you tried and what you'll try next
+- Notice what's working and do more of it
+- Lean on friends and mentors when it's discouraging
 
 </div>
 </div>
 
-> Protect momentum: small, steady reps beat frantic bursts that burn out.
+> Small, steady effort beats giving up after one "no." Everyone in tech has a pile of them.
 
 <!--
 Timing: 60 seconds.
-Reframe rejection as information rather than a verdict - a theme already seeded
-earlier in the talk. A lightweight tracker (spreadsheet or app) turns an
-emotional process into a manageable system and reveals which parts of the
-approach are working. Communities provide both accountability and support during
-a search that can otherwise feel isolating.
+Reframe rejection as normal and useful - not a verdict. Didn't make the robotics
+team, the program, the internship? So has everyone. Reflect, adjust one thing,
+and try the next. Friends, mentors, and a supportive community keep momentum up
+when it feels discouraging.
 -->
 
 ---
 
-# Evergreen starting points
+# Starting points to explore
 
 <div class="columns">
 <div>
 
 ## Explore and learn
 
-- [roadmap.sh](https://roadmap.sh/)
-- [Microsoft Learn](https://learn.microsoft.com/training/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Code.org](https://code.org/) and [Scratch](https://scratch.mit.edu/)
+- [Experience CS](https://experience-cs.org/units)
+- [freeCodeCamp](https://www.freecodecamp.org/) and [Microsoft Learn](https://learn.microsoft.com/training/)
 - [The Odin Project](https://www.theodinproject.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- Learn in Public - [swyx.io/learn-in-public](https://www.swyx.io/learn-in-public)
+- [roadmap.sh](https://roadmap.sh/) - pick a path
 
 </div>
 <div>
 
-## Practice and proof
+## Practice and build
 
 - [GitHub Skills](https://skills.github.com/)
 - [Exercism](https://exercism.org/)
-- [GitHub profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme)
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [MakeCode Arcade](https://arcade.makecode.com/) - build games
+- [Minecraft Education CS](https://education.minecraft.net/en-us/resources/computer-science)
 
 </div>
 </div>
-
-<!--
-Timing: 1 minute.
-Do not read every link. Show how to choose: one roadmap for orientation, one
-guided curriculum, one practice environment, and one community.
--->
-
----
-
-# Evergreen starting points (continued)
-
-<div class="columns">
-<div>
-
-## Community
-
-- [Meetup technology groups](https://www.meetup.com/find/?keywords=technology)
-- [Out in Tech](https://outintech.com/)
-- [Blacks In Technology](https://blacksintechnology.net/)
-- [Techqueria](https://techqueria.org/)
-
-</div>
-<div>
-
-## Interview prep and visibility
-
-- Cracking the Coding Interview - [crackingthecodinginterview.com](https://www.crackingthecodinginterview.com/)
-- System Design Primer - [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-
-</div>
-</div>
-
-**Start with one resource and one community.** Depth beats a bookmark
-collection. See the repository README for a fuller list.
-
-<!--
-Mention that free or freemium access and course details can change, so
-attendees should check current terms and accessibility.
--->
-
----
-
-<!-- _class: small -->
-
-# Popular talks and essays to go deeper
-
-<div class="columns">
-<div>
-
-## Career story and visibility
-
-- [Breaking Into Tech](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-- [Brag Documents](https://jvns.ca/blog/brag-documents/)
-- [Being Glue](https://www.noidea.dog/glue)
-- [Learn in Public](https://www.swyx.io/learn-in-public)
-
-</div>
-<div>
-
-## Skills, sponsorship, and hiring
-
-- [The Missing Semester](https://missing.csail.mit.edu/)
-- [How to Find the Person Who Can Help You Get Ahead at Work](https://www.ted.com/talks/carla_harris_how_to_find_the_person_who_can_help_you_get_ahead_at_work)
-- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-- [Technical Interviews in the AI Arms Race](https://spectrum.ieee.org/technical-interview-ai-arms-race)
-- [Engineering Interview Trends 2026](https://karat.com/engineering-interview-trends-2026/)
-
-</div>
-</div>
-
-> Use these as starting points, not commandments; adapt advice to your constraints and market.
 
 <!--
 Timing: 60 seconds.
-These are original sources used to deepen the deck. Some reflect practitioner
-experience or vendor research, so compare perspectives and do not treat any one
-source as universal.
+Don't read every link. Show how to choose: one place to explore (Code.org,
+Scratch), one deeper curriculum (freeCodeCamp, Microsoft Learn, Odin), and one
+hands-on practice spot. Depth beats a giant bookmark list.
 -->
 
 ---
 
-# Most of this path can be free
+# Starting points (continued)
 
 <div class="columns">
 <div>
 
-## Free events
+## Clubs and communities
 
-- [Meetup](https://www.meetup.com/) groups and local user groups
-- Community code camps and free regional conferences
-- [Major League Hacking](https://mlh.io/) hackathons
-- Volunteering is often a free conference ticket
+- [FIRST Robotics](https://www.firstinspires.org/programs/frc/) and school teams
+- [Girls Who Code](https://girlswhocode.com/)
+- [CoderDojo](https://coderdojo.com/) - free coding clubs
+- [Major League Hacking](https://mlh.io/) student hackathons
+
+</div>
+<div>
+
+## Practice and challenges
+
+- [Advent of Code](https://adventofcode.com/) each December
+- [Codewars](https://www.codewars.com/) and [CodinGame](https://www.codingame.com/)
+- [Project Euler](https://projecteuler.net/) - math + code puzzles
+
+</div>
+</div>
+
+**Start with one resource and one club.** Ask a teacher what your school offers.
+
+<!--
+Timing: 60 seconds.
+Point students to youth-friendly clubs and communities - robotics teams, Girls
+Who Code, CoderDojo, and student hackathons - plus fun challenge sites. Encourage
+them to ask a teacher or counselor what clubs and programs already exist at their
+school.
+-->
+
+---
+
+# Fun ways to keep learning
+
+<div class="columns">
+<div>
+
+## Learn by playing
+
+- [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans) and [The Farmer Was Replaced](https://store.steampowered.com/app/2060160/) - programming games
+- [CodinGame](https://www.codingame.com/) and [Codewars](https://www.codewars.com/)
+- [Advent of Code](https://adventofcode.com/) - a yearly December tradition
+
+</div>
+<div>
+
+## Build something you'd use
+
+- A game in [Scratch](https://scratch.mit.edu/) or [MakeCode Arcade](https://arcade.makecode.com/)
+- A tiny website about something you love
+- A [Raspberry Pi](https://www.raspberrypi.org/) or [micro:bit](https://microbit.org/) project
+- A Discord bot or a simple phone app
+
+</div>
+</div>
+
+> The best way to keep going is to build things you actually think are cool.
+
+<!--
+Timing: 60 seconds.
+Motivation lasts longer when learning is fun. Programming games teach real logic;
+building something personal (a game, a site, a gadget) keeps students engaged.
+Encourage one project they'd genuinely enjoy making.
+-->
+
+---
+
+# Most of this is free
+
+<div class="columns">
+<div>
+
+## Free ways to get involved
+
+- School clubs, robotics teams, and CS classes
+- [MLH](https://mlh.io/) and other student hackathons
+- [CoderDojo](https://coderdojo.com/) and library workshops
+- Volunteering to help at events
 
 </div>
 <div>
@@ -1343,53 +1351,51 @@ source as universal.
 ## Free practice
 
 - [HackerRank](https://www.hackerrank.com/) and [LeetCode](https://leetcode.com/)
-- Mock interviews - [Pramp](https://www.pramp.com/) and [interviewing.io](https://interviewing.io/)
 - Coding games: [CodinGame](https://www.codingame.com/), [Codewars](https://www.codewars.com/)
+- [Project Euler](https://projecteuler.net/) puzzles
 - [Advent of Code](https://adventofcode.com/) each December
-- Treat challenges as practice reps, not a scoreboard
+- Treat challenges as fun reps, not a scoreboard
 
 </div>
 </div>
 
 <!--
-Timing: 90 seconds.
-Push back on the idea that entering tech requires expensive courses. Local
-meetups, user groups, code camps, and hackathons are free and welcoming to
-newcomers. Coding challenge sites such as HackerRank and LeetCode build
-interview fluency; coding games such as CodinGame and Codewars make practice
-playful, and Advent of Code is a yearly on-ramp with a large community.
+Timing: 75 seconds.
+Push back on the idea that tech requires expensive courses. School clubs,
+hackathons, CoderDojo, and library programs are free and welcoming. Challenge
+sites and coding games build skills and are fun - remind students they're
+practice, not a leaderboard to stress over.
 -->
 
 ---
 
-# Most of this path can be free (continued)
-
-## Free and student tools
+# Free and student tools
 
 <div class="columns">
 <div>
 
-- [Python](https://www.python.org/), [.NET](https://dotnet.microsoft.com/), and [Node.js](https://nodejs.org/) - free, open source platforms
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python](https://www.python.org/), [C#/.NET](https://dotnet.microsoft.com/), and [JavaScript](https://nodejs.org/) - free to use
+- [Visual Studio Code](https://code.visualstudio.com/) - free code editor
+- A [Raspberry Pi](https://www.raspberrypi.org/) is a cheap, hands-on computer
 
 </div>
 <div>
 
-- [YouTube](https://www.youtube.com/@freecodecamp): full courses and conference talks
-- [GitHub Student Developer Pack](https://education.github.com/pack) and [Azure for Students](https://azure.microsoft.com/free/students/)
+- [YouTube](https://www.youtube.com/@freecodecamp): free full courses
+- [GitHub Student Developer Pack](https://education.github.com/pack) - free tools for students
+- [Azure for Students](https://azure.microsoft.com/free/students/) - free cloud credits
 
 </div>
 </div>
 
-**The tech community is largely free to join.** The cost is time and
-consistency, not money.
+**Getting into tech is mostly free.** The cost is your time and curiosity, not money.
 
 <!--
-The core platforms themselves - Python, .NET, and Node.js - are free and open
-source, so nothing gates hands-on practice. YouTube hosts full-length courses
-and recorded conference talks. Students should grab the GitHub Student
-Developer Pack and Azure for Students while eligible - free tools, credits,
-and services.
+Timing: 60 seconds.
+The core tools are free: Python, C#, JavaScript, and VS Code. A Raspberry Pi is
+an inexpensive way to get hands-on. Students should grab the GitHub Student
+Developer Pack and Azure for Students while eligible - free tools and cloud
+credits. Nothing expensive gates hands-on practice.
 -->
 
 ---
@@ -1403,38 +1409,38 @@ and services.
 
 ## 1
 
-**Direction beats breadth**
+**Pick a direction**
 
-Pick a role family so practice has a purpose.
+Choose one area that sounds fun so your time has a focus.
 
 </div>
 <div>
 
 ## 2
 
-**Evidence makes skills visible**
+**Build real things**
 
-Show small, complete work and honest outcomes.
+Small, finished projects show what you can do.
 
 </div>
 <div>
 
 ## 3
 
-**Relationships and reps create options**
+**Find your people**
 
-Contribute, follow up, practice, and adjust.
+Clubs, friends, and mentors open doors and keep it fun.
 
 </div>
 </div>
 
-**Next action:** choose one role family and schedule the first 45-minute block.
+**Your next step:** pick one area and start one small project this week.
 
 <!--
 Timing: 30 seconds.
-Return to the three-part framing from the title. Ask attendees to write down
-their target role and the exact time of their first work block. The purpose is
-to convert motivation into a small scheduled action.
+Return to the three-part framing from the title. Ask students to write down the
+one area they'll explore and the small project they'll start. The goal is to turn
+excitement into one concrete, doable action.
 -->
 
 ---
@@ -1445,7 +1451,7 @@ to convert motivation into a small scheduled action.
 
 # Questions?
 
-Your path does not need to match anyone else's.
+Your path doesn't need to match anyone else's - start where you are.
 
 **Chris Ayers**<br>
 Principal Software Engineer | Speaker | Community Builder
@@ -1460,9 +1466,9 @@ Principal Software Engineer | Speaker | Community Builder
 
 <!--
 Timing: 5 minutes.
-Invite questions about choosing a role, translating experience, project scope,
-community participation, or hiring stages. If no one starts, ask: "Which part
-of the path feels least clear right now?" Leave the contact slide visible.
+Invite questions about choosing an area, project ideas, clubs and competitions,
+or getting started. If no one starts, ask: "What sounds the most fun to try?"
+Leave the contact slide visible.
 -->
 
 <script type="module">
