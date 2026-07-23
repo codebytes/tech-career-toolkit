@@ -755,14 +755,7 @@ teammates alike.
 
 # 4 / Show up and apply
 
-<pre class="mermaid">
-flowchart LR
-    A["Learn a<br/>little"] --> B["Build<br/>something"]
-    B --> C["Share your<br/>work"]
-    C --> D["Meet people<br/>and clubs"]
-    D --> E["An opportunity<br/>appears"]
-    E --> F["Apply or<br/>say yes"]
-</pre>
+![w:1120 center](./img/path-flow.drawio.svg)
 
 > Most first opportunities - a club role, a summer program, an internship - come
 > from having something to show and people who know you.
@@ -1421,18 +1414,3 @@ A quick "scan to follow along" moment. Tell students they can grab the slides
 now and revisit every link and resource afterward - no need to write anything
 down.
 -->
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({
-    startOnLoad: true,
-    theme: 'base',
-    themeVariables: {
-      primaryColor: '#1f2a44',
-      primaryTextColor: '#eaeaea',
-      primaryBorderColor: '#58a6ff',
-      lineColor: '#58a6ff'
-    }
-  });
-  await mermaid.run({ querySelector: '.mermaid' });
-</script>
