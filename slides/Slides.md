@@ -16,9 +16,6 @@ footer: 'Your Path Into Tech | Chris Ayers'
 Chris Ayers<br>
 Principal Software Engineer | Speaker | Community Builder
 
-![w:110](./img/qr-toolkit.svg)
-**Slides:** [chris-ayers.com/tech-career-toolkit](https://chris-ayers.com/tech-career-toolkit/)
-
 ![bg right:49% contain](./img/title-journey.drawio.svg)
 
 <!--
@@ -26,6 +23,27 @@ Timing: 30 seconds.
 Open by acknowledging that "getting into tech" can feel mysterious in high
 school. Promise a practical map you can start on now, not a guaranteed shortcut.
 The three verbs on this slide are the through-line for the entire talk.
+-->
+
+---
+
+<!-- _class: invert -->
+
+![bg right:42% contain](./img/qr-toolkit.svg)
+
+# Get the slides
+
+Scan the code, or open:
+
+## [chris-ayers.com/tech-career-toolkit](https://chris-ayers.com/tech-career-toolkit/)
+
+Follow along now, and keep every link, tool, and resource from this talk.
+
+<!--
+Timing: 20 seconds.
+A quick "scan to follow along" moment. Tell students they can grab the slides
+now and revisit every link and resource afterward - no need to write anything
+down.
 -->
 
 ---
@@ -178,9 +196,8 @@ show and talk about later.
 1. Pick **one area** that sounds fun
 2. Learn just enough to start
 3. Build a **small, finished** project
-4. Write down what you tried
-5. Show it and ask for feedback
-6. Do it again, a little harder
+4. Show it and ask for feedback
+5. Do it again, a little harder
 
 </div>
 <div>
@@ -550,7 +567,7 @@ private and loop in a trusted adult.
 
 - School clubs: coding, robotics, esports
 - [FIRST Robotics](https://www.firstinspires.org/programs/frc/) and competitions
-- Student hackathons (like [MLH](https://mlh.io/))
+- Student hackathons and coding competitions
 - Library and [Meetup](https://www.meetup.com/) events
 
 </div>
@@ -836,19 +853,27 @@ one finished project beats a long list of buzzwords.
 <div class="columns">
 <div>
 
-## Link to something real
+## ✅ Show
 
-Add a GitHub, itch.io, or portfolio link when it's current and easy to open. One
-good project you can explain beats ten half-finished ones.
+- A [GitHub](https://github.com/), [itch.io](https://itch.io/), or portfolio link
+- One project you can actually explain
+- A screenshot, demo, or live link
+- A clear note on what you built
 
 </div>
 <div>
 
-**Skip:** fake "objectives," skill bars, and listing every app you've ever
-opened. Ask an adult you trust to proofread it.
+## ❌ Skip
+
+- Fake "objectives" and skill bars
+- Listing every app you've ever opened
+- Buzzwords you can't talk about
+- Typos - ask an adult to proofread
 
 </div>
 </div>
+
+> One good project you can explain beats ten half-finished ones.
 
 ---
 
@@ -857,26 +882,23 @@ opened. Ask an adult you trust to proofread it.
 <div class="columns">
 <div>
 
-## Before: a vague line
+## ❌ Vague
 
 > "Was in robotics club and helped with the code."
 
 </div>
 <div>
 
-## After: a stronger sample line
+## ✅ Specific
 
-> **Programmed** the arm controls for our team's robot and wrote a guide so the
-> next team can reuse it.
+> **Programmed** the arm controls for our team's robot and wrote a guide so the next team can reuse it.
 
 </div>
 </div>
 
-### A useful pattern
+**The pattern:** action + context + what you made + result
 
-**Action + context + what you made + result**
-
-No numbers? Name a real outcome: built, fixed, explained, or made something easier.
+> No numbers? Name a real outcome - built, fixed, explained, or made something easier.
 
 ---
 
@@ -885,46 +907,17 @@ No numbers? Name a real outcome: built, fixed, explained, or made something easi
 <div class="columns">
 <div>
 
-## Explain
+## Tell it with STAR
 
-- what you were trying to do
-- the choices you made
-- how you figured out the hard parts
-- where a teammate helped
+- **S**ituation and **T**ask - set the scene
+- **A**ction - what you did and why
+- **R**esult - what happened and what you learned
+- Have a story about a hard thing, a mistake, and teamwork
 
 </div>
 <div>
 
-## Prepare a few stories
-
-Use **STAR**:
-
-- Situation
-- Task
-- Action
-- Result (and what you learned)
-
-</div>
-</div>
-
-<!--
-Timing: 75 seconds.
-Whether it's a club, a program, a scholarship, or a first job, being able to talk
-about your work is a learnable skill. Practice out loud with a friend or by
-recording yourself. STAR keeps a story clear: set the scene, your job, what you
-did, and how it turned out.
--->
-
----
-
-# Talking about your work (continued)
-
-Have a story ready about learning something hard, a mistake, and a team moment.
-
-<div class="columns">
-<div>
-
-## Good questions to ask them
+## Ask them good questions
 
 - What does a typical day or project look like?
 - How would I get feedback?
@@ -932,89 +925,79 @@ Have a story ready about learning something hard, a mistake, and a team moment.
 - What's the most fun part?
 
 </div>
-<div>
-
-> After each try: notice what surprised you -> adjust -> try again.
-> A "no" is about the match, not about you.
-
 </div>
-</div>
+
+> Practice out loud. A "no" is about the match, not about you.
 
 <!--
-Timing: 60 seconds.
-Asking thoughtful questions makes it a two-way conversation and shows genuine
-interest. Reinforce the growth framing: every interview or tryout is practice,
-and a rejection is information about fit - not a verdict on their worth.
+Timing: 90 seconds.
+Being able to talk about your work is a learnable skill - for a club, program,
+scholarship, or first job. Practice out loud with a friend or by recording
+yourself. STAR keeps a story clear; have one ready about a hard thing, a mistake,
+and teamwork. Asking good questions makes it a two-way conversation, and a "no"
+is information about fit, not a verdict on your worth.
 -->
 
 ---
 
 # Tell your story simply
 
-## A simple arc
-
-- **Spark:** what first got you curious about tech
-- **Explored:** the classes, clubs, or tutorials you tried
-- **Made:** a project or thing you built and finished
-- **Next:** what you want to learn or do next
-
-> Spark, explored, made, and next give your story a clear spine - for a club, a
-> teacher, an application, or a mentor.
-
-<!--
-Timing: 45 seconds.
-Now that students have explored, built, and met people, they have a real story to
-tell. This short arc helps a mentor, teacher, or program understand where they
-are and what they want. Keep it to a few sentences; the "made" part is where a
-real project makes the story land.
--->
-
----
-
-# Make your story real
-
-## Back it up with something you made
-
-- Keep it short - a minute is plenty
-- Point to one thing you actually built or did
-- Use one real example, not a list of everything
-- End forward: what you want to try next
-
-> Talk is cheap; a small project you can show is the bridge. Even a Scratch game
-> or a simple website counts.
-
-<!--
-Timing: 45 seconds.
-The story helps people understand you quickly, then a small piece of real work -
-one of the projects from earlier in this talk - makes it believable. Remind
-students that "evidence" can be tiny and still count: a game, a website, a
-script, a robot subsystem.
--->
-
----
-
-# If you get a coding challenge: think out loud
-
 <div class="columns">
 <div>
 
-## A repeatable approach
+## A simple arc
 
-1. Restate the problem in your own words
-2. Say your plan before you code
-3. Start simple, then improve
-4. Test it with a few examples
-5. Talk through what could go wrong
+- **Spark:** what got you curious about tech
+- **Explored:** classes, clubs, or tutorials you tried
+- **Made:** a project you built and finished
+- **Next:** what you want to learn or do next
 
 </div>
 <div>
 
-## Practice like it's a skill
+## Make it real
 
-- It's practice, not natural talent
-- Try [LeetCode](https://leetcode.com/), [HackerRank](https://www.hackerrank.com/), or [Advent of Code](https://adventofcode.com/)
-- Work through problems with a friend
+- Keep it short - a minute is plenty
+- Point to one thing you actually built
+- Use one real example, not a list
+- End forward: what you'll try next
+
+</div>
+</div>
+
+> A small project you can show is the bridge - even a Scratch game counts.
+
+<!--
+Timing: 60 seconds.
+Now that students have explored, built, and met people, they have a real story to
+tell: spark, explored, made, next. Keep it short and point to one real thing they
+built - that "made" piece is what makes the story land for a club, teacher,
+mentor, or program.
+-->
+
+---
+
+# Technical interviews: think out loud
+
+<div class="columns">
+<div>
+
+## A coding challenge
+
+- Restate the problem in your own words
+- Say your plan, then start simple
+- Test with examples; talk through edge cases
 - Thinking out loud beats going silent
+
+</div>
+<div>
+
+## "How would you build it?"
+
+- Ask who it's for and what it needs to do
+- Sketch the main parts; name one tradeoff
+- Don't overthink - a clear simple idea wins
+- "I'd look that part up" is a fine answer
 
 </div>
 </div>
@@ -1022,47 +1005,13 @@ script, a robot subsystem.
 > People care how you think, not whether you're instantly perfect.
 
 <!--
-Timing: 75 seconds.
-The most common mistake is going silent. Narrate: restate the problem, say a
-simple plan, try it, then improve. This matters for CS class, competitions,
-and future interviews. For students, emphasize communication and steady practice
-over memorizing tricky algorithms.
--->
-
----
-
-# If they ask "how would you build that?"
-
-<div class="columns">
-<div>
-
-## Start with the problem
-
-- Ask who it's for and what it needs to do
-- Say your assumptions out loud
-- Sketch the main parts on paper
-
-</div>
-<div>
-
-## Keep it honest
-
-- Walk through how it works
-- Name one tradeoff (simple vs. fancy)
-- Don't overthink it - a clear simple idea wins
-- "I'd look that part up" is a totally fine answer
-
-</div>
-</div>
-
-> Clear thinking beats buzzwords. Nobody expects you to know everything.
-
-<!--
-Timing: 60 seconds.
-Only some interviews include a light "how would you build this" chat. Reassure
-students: they aren't expected to design something huge. Ask questions, sketch a
-few parts, walk through how it works, and name one tradeoff. Saying "I'd learn
-that" honestly is better than bluffing.
+Timing: 90 seconds.
+Two common technical formats. For a coding challenge, the biggest mistake is
+going silent - narrate: restate, plan, start simple, test, improve. For a "how
+would you build it?" chat, students aren't expected to design something huge:
+ask questions, sketch a few parts, name one tradeoff, and it's fine to say "I'd
+look that up." Emphasize communication over memorizing tricky algorithms.
+Practice sites like LeetCode and Advent of Code are on the resources slide.
 -->
 
 ---
@@ -1143,52 +1092,20 @@ with a trusted adult before committing.
 
 | Week | Focus | What to do |
 |---|---|---|
-| **1** | Choose | Pick one area that sounds fun; try a short tutorial; write down one small project idea |
-| **2** | Learn | Learn just enough to start; do three short practice sessions; sketch your project |
-| **3** | Build | Make the smallest finished version; add a README or demo; show it to two people |
-| **4** | Share + connect | Post it or add it to GitHub; join one club or online group; find one program or contest to try |
+| **1** | Choose | Pick one area; try a short tutorial; note a project idea |
+| **2** | Learn | Learn just enough to start; sketch your project |
+| **3** | Build | Build the smallest finished version; add a README or demo |
+| **4** | Share | Post it on GitHub; join a club; find a program to try |
+
+**Keep it sustainable:** ~2-3 hours a week - homework and rest come first. Review each week and adjust.
 
 <!--
-Timing: 75 seconds.
+Timing: 90 seconds.
 Present this as an experiment, not a test - a few hours a week around school. The
 sequence matters more than the hours: choose, learn, build, then share and
-connect with something real to talk about. Any week can be shrunk on a busy week.
--->
-
----
-
-# Make it fit around school
-
-<div class="columns">
-<div>
-
-## Example weekly cadence
-
-- Learn: `2 x 30 min`
-- Build: `1 x 60 min`
-- Club or community: `1 x 30 min`
-- Explore something new: `1 x 30 min`
-
-</div>
-<div>
-
-## End-of-week check-in
-
-- What did I finish?
-- What did I make or learn?
-- What feedback did I get?
-- What felt like too much?
-
-</div>
-</div>
-
-> Homework and rest come first. Shrink the plan before you drop it entirely.
-
-<!--
-Timing: 60 seconds.
-Invite students to scale this around school, activities, and rest. A good routine
-makes progress without burning out. At the end of each week, keep, change, or
-drop parts based on how it went and how much time they actually have.
+connect. Suggest a rough rhythm like two short learning sessions, one build
+session, and some community time. At the end of each week, keep, change, or drop
+parts based on how it went - homework and rest always come first.
 -->
 
 ---
@@ -1216,7 +1133,7 @@ drop parts based on how it went and how much time they actually have.
 </div>
 </div>
 
-> Small, steady effort beats giving up after one "no." Everyone in tech has a pile of them.
+> Small, steady effort beats giving up after one "no." Everyone in tech has a pile.
 
 <!--
 Timing: 60 seconds.
@@ -1265,36 +1182,45 @@ hands-on practice spot. Depth beats a giant bookmark list.
 
 # Starting points (continued)
 
-<div class="columns">
+<div class="columns3">
 <div>
 
-## Clubs and communities
+## Clubs and teams
 
-- [FIRST Robotics](https://www.firstinspires.org/programs/frc/) and school teams
+- [FIRST Robotics](https://www.firstinspires.org/programs/frc/)
 - [Girls Who Code](https://girlswhocode.com/)
-- [CoderDojo](https://coderdojo.com/) - free coding clubs
-- [Major League Hacking](https://mlh.io/) student hackathons
+- [CoderDojo](https://coderdojo.com/)
+
+</div>
+<div>
+
+## Online communities
+
+- [Hack Club](https://hackclub.com/) - for teens
+- [freeCodeCamp forum](https://forum.freecodecamp.org/)
+- [dev.to](https://dev.to/) - share your work
 
 </div>
 <div>
 
 ## Practice and challenges
 
-- [Advent of Code](https://adventofcode.com/) each December
-- [Codewars](https://www.codewars.com/) and [CodinGame](https://www.codingame.com/)
-- [Project Euler](https://projecteuler.net/) - math + code puzzles
+- [Advent of Code](https://adventofcode.com/)
+- [Codewars](https://www.codewars.com/) & [CodinGame](https://www.codingame.com/)
+- [Project Euler](https://projecteuler.net/)
 
 </div>
 </div>
 
-**Start with one resource and one club.** Ask a teacher what your school offers.
+**Start with one club and one community.** Keep it public and school-safe - loop in a trusted adult.
 
 <!--
 Timing: 60 seconds.
-Point students to youth-friendly clubs and communities - robotics teams, Girls
-Who Code, CoderDojo, and student hackathons - plus fun challenge sites. Encourage
-them to ask a teacher or counselor what clubs and programs already exist at their
-school.
+Point students to youth-friendly clubs and safe online communities - robotics
+teams, Girls Who Code, CoderDojo, plus teen-focused spaces like Hack Club and
+beginner-friendly forums (freeCodeCamp, dev.to) - alongside fun challenge sites.
+Reinforce safety: keep sharing public and school-appropriate and loop in a
+trusted adult. Encourage asking a teacher what clubs already exist at school.
 -->
 
 ---
@@ -1342,8 +1268,8 @@ Encourage one project they'd genuinely enjoy making.
 ## Free ways to get involved
 
 - School clubs, robotics teams, and CS classes
-- [MLH](https://mlh.io/) and other student hackathons
 - [CoderDojo](https://coderdojo.com/) and library workshops
+- Student hackathons and coding competitions
 - Volunteering to help at events
 
 </div>
@@ -1377,6 +1303,7 @@ practice, not a leaderboard to stress over.
 
 - [Python](https://www.python.org/), [C#/.NET](https://dotnet.microsoft.com/), and [JavaScript](https://nodejs.org/) - free to use
 - [Visual Studio Code](https://code.visualstudio.com/) - free code editor
+- [JetBrains IDEs](https://www.jetbrains.com/community/education/) - free for students
 - A [Raspberry Pi](https://www.raspberrypi.org/) is a cheap, hands-on computer
 
 </div>
@@ -1393,10 +1320,11 @@ practice, not a leaderboard to stress over.
 
 <!--
 Timing: 60 seconds.
-The core tools are free: Python, C#, JavaScript, and VS Code. A Raspberry Pi is
-an inexpensive way to get hands-on. Students should grab the GitHub Student
-Developer Pack and Azure for Students while eligible - free tools and cloud
-credits. Nothing expensive gates hands-on practice.
+The core tools are free: Python, C#, JavaScript, and VS Code. JetBrains IDEs are
+free for students, and a Raspberry Pi is an inexpensive way to get hands-on.
+Students should grab the GitHub Student Developer Pack and Azure for Students
+while eligible - free tools and cloud credits. Nothing expensive gates hands-on
+practice.
 -->
 
 ---
@@ -1465,14 +1393,33 @@ Principal Software Engineer | Speaker | Community Builder
   <a href="https://hachyderm.io/@Chrisayers">Mastodon</a>
 </p>
 
-![w:170](./img/qr-toolkit.svg)
-**Slides & resources:** [chris-ayers.com/tech-career-toolkit](https://chris-ayers.com/tech-career-toolkit/)
-
 <!--
 Timing: 5 minutes.
 Invite questions about choosing an area, project ideas, clubs and competitions,
 or getting started. If no one starts, ask: "What sounds the most fun to try?"
 Leave the contact slide visible.
+-->
+
+---
+
+
+<!-- _class: invert -->
+
+![bg right:42% contain](./img/qr-toolkit.svg)
+
+# Get the slides
+
+Scan the code, or open:
+
+## [chris-ayers.com/tech-career-toolkit](https://chris-ayers.com/tech-career-toolkit/)
+
+Follow along now, and keep every link, tool, and resource from this talk.
+
+<!--
+Timing: 20 seconds.
+A quick "scan to follow along" moment. Tell students they can grab the slides
+now and revisit every link and resource afterward - no need to write anything
+down.
 -->
 
 <script type="module">
