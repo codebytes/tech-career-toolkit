@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640px" height="640px" content="&lt;mxfile host=&quot;app.diagrams.net&quot; agent=&quot;make-drawio-svg&quot; version=&quot;24.7.17&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;journey-path&quot; name=&quot;Journey Path&quot;&gt;&lt;mxGraphModel dx=&quot;640&quot; dy=&quot;640&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;640&quot; pageHeight=&quot;640&quot; math=&quot;0&quot; shadow=&quot;0&quot; background=&quot;#1a1a2e&quot;&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot; /&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;&lt;mxCell id=&quot;panel&quot; value=&quot;&quot; style=&quot;rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#15182c;gradientColor=#222a4b;gradientDirection=north;strokeColor=#52658a;strokeOpacity=45;strokeWidth=2;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;20&quot; y=&quot;20&quot; width=&quot;600&quot; height=&quot;600&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;path-1&quot; value=&quot;&quot; style=&quot;edgeStyle=none;curved=1;rounded=1;html=1;dashed=1;dashPattern=1 3;strokeColor=#8395ff;strokeWidth=5;startArrow=none;endArrow=none;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;start&quot; target=&quot;build&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;Array as=&quot;points&quot;&gt;&lt;mxPoint x=&quot;128&quot; y=&quot;474&quot; /&gt;&lt;mxPoint x=&quot;136&quot; y=&quot;420&quot; /&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;path-2&quot; value=&quot;&quot; style=&quot;edgeStyle=none;curved=1;rounded=1;html=1;dashed=1;dashPattern=1 3;strokeColor=#8395ff;strokeWidth=5;startArrow=none;endArrow=none;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;build&quot; target=&quot;connect&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;Array as=&quot;points&quot;&gt;&lt;mxPoint x=&quot;258&quot; y=&quot;342&quot; /&gt;&lt;mxPoint x=&quot;318&quot; y=&quot;365&quot; /&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;path-3&quot; value=&quot;&quot; style=&quot;edgeStyle=none;curved=1;rounded=1;html=1;dashed=1;dashPattern=1 3;strokeColor=#8395ff;strokeWidth=5;startArrow=none;endArrow=none;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;connect&quot; target=&quot;practice&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;Array as=&quot;points&quot;&gt;&lt;mxPoint x=&quot;401&quot; y=&quot;250&quot; /&gt;&lt;mxPoint x=&quot;386&quot; y=&quot;214&quot; /&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;path-4&quot; value=&quot;&quot; style=&quot;edgeStyle=none;curved=1;rounded=1;html=1;dashed=1;dashPattern=1 3;strokeColor=#8395ff;strokeWidth=5;startArrow=none;endArrow=none;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;practice&quot; target=&quot;destination&quot;&gt;&lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;Array as=&quot;points&quot;&gt;&lt;mxPoint x=&quot;458&quot; y=&quot;136&quot; /&gt;&lt;mxPoint x=&quot;490&quot; y=&quot;132&quot; /&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;start&quot; value=&quot;●&quot; style=&quot;ellipse;aspect=fixed;whiteSpace=wrap;html=1;fillColor=#15192e;strokeColor=#58a6ff;strokeWidth=2;fontColor=#d9ebff;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;65&quot; y=&quot;509&quot; width=&quot;58&quot; height=&quot;58&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;build&quot; value=&quot;&amp;lt;/&amp;gt;&quot; style=&quot;ellipse;aspect=fixed;whiteSpace=wrap;html=1;fillColor=#15192e;strokeColor=#79b5fb;strokeWidth=2;fontColor=#dcecff;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;156&quot; y=&quot;327&quot; width=&quot;76&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;connect&quot; value=&quot;●–●&quot; style=&quot;ellipse;aspect=fixed;whiteSpace=wrap;html=1;fillColor=#171b33;strokeColor=#8f9bff;strokeWidth=2;fontColor=#e3e5ff;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;340&quot; y=&quot;276&quot; width=&quot;76&quot; height=&quot;76&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;practice&quot; value=&quot;↻&quot; style=&quot;ellipse;aspect=fixed;whiteSpace=wrap;html=1;fillColor=#191d37;strokeColor=#a79cff;strokeWidth=2;fontColor=#ece9ff;fontSize=28;fontStyle=1;align=center;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;387&quot; y=&quot;127&quot; width=&quot;68&quot; height=&quot;68&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;mxCell id=&quot;destination&quot; value=&quot;★&quot; style=&quot;ellipse;aspect=fixed;whiteSpace=wrap;html=1;fillColor=#20233c;strokeColor=#f5c26b;strokeWidth=2;fontColor=#ffe0a0;fontSize=28;fontStyle=1;align=center;verticalAlign=middle;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry x=&quot;479&quot; y=&quot;61&quot; width=&quot;94&quot; height=&quot;94&quot; as=&quot;geometry&quot; /&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <!-- Editable draw.io model is embedded in the root content attribute. -->
+  <title id="title">An abstract dotted journey into tech</title>
+  <desc id="desc">A winding dotted path rises through three waypoints toward a glowing destination.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="76" y1="574" x2="570" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15182c"/>
+      <stop offset="0.55" stop-color="#1b2140"/>
+      <stop offset="1" stop-color="#222a4b"/>
+    </linearGradient>
+    <linearGradient id="path" x1="108" y1="526" x2="526" y2="108" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff"/>
+      <stop offset="0.54" stop-color="#8f9bff"/>
+      <stop offset="1" stop-color="#b7a5ff"/>
+    </linearGradient>
+    <radialGradient id="destination" cx="0" cy="0" r="1" gradientTransform="translate(526 108) rotate(90) scale(82)">
+      <stop stop-color="#f5c26b" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#f5c26b" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="pathGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="20" y="20" width="600" height="600" rx="48" fill="url(#panel)"/>
+  <rect x="20.75" y="20.75" width="598.5" height="598.5" rx="47.25" fill="none" stroke="#92b8e8" stroke-opacity="0.24" stroke-width="1.5"/>
+
+  <g fill="#b8c1d1" opacity="0.2">
+    <circle cx="78" cy="92" r="2"/>
+    <circle cx="113" cy="92" r="2"/>
+    <circle cx="148" cy="92" r="2"/>
+    <circle cx="78" cy="127" r="2"/>
+    <circle cx="113" cy="127" r="2"/>
+    <circle cx="148" cy="127" r="2"/>
+    <circle cx="492" cy="503" r="2"/>
+    <circle cx="527" cy="503" r="2"/>
+    <circle cx="562" cy="503" r="2"/>
+    <circle cx="492" cy="538" r="2"/>
+    <circle cx="527" cy="538" r="2"/>
+    <circle cx="562" cy="538" r="2"/>
+  </g>
+
+  <path d="M70 447C175 530 279 589 423 574C507 565 559 526 590 468" fill="none" stroke="#90a5c7" stroke-opacity="0.09" stroke-width="2"/>
+  <path d="M60 424C182 504 285 549 418 536C505 528 566 485 596 429" fill="none" stroke="#90a5c7" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M94 538C145 481 125 407 194 365C263 323 340 386 378 314C409 254 368 205 421 161C453 135 487 135 526 108" fill="none" stroke="#8ba6ca" stroke-opacity="0.18" stroke-width="4"/>
+  <path d="M94 538C145 481 125 407 194 365C263 323 340 386 378 314C409 254 368 205 421 161C453 135 487 135 526 108" fill="none" stroke="url(#path)" stroke-width="11" stroke-linecap="round" stroke-dasharray="1 27" filter="url(#pathGlow)"/>
+
+  <g transform="translate(94 538)">
+    <circle r="29" fill="#14182c" stroke="#58a6ff" stroke-opacity="0.42" stroke-width="2"/>
+    <circle r="12" fill="#58a6ff" fill-opacity="0.16" stroke="#82bcff" stroke-width="2"/>
+    <circle r="4" fill="#d9ebff"/>
+  </g>
+
+  <g transform="translate(194 365)">
+    <circle r="38" fill="#15192e" stroke="#79b5fb" stroke-opacity="0.48" stroke-width="2"/>
+    <circle r="27" fill="#58a6ff" fill-opacity="0.09"/>
+    <path d="M-13-8L-21 0L-13 8M13-8L21 0L13 8M6-16L-6 16" fill="none" stroke="#dcecff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(378 314)">
+    <circle r="38" fill="#171b33" stroke="#8f9bff" stroke-opacity="0.52" stroke-width="2"/>
+    <circle r="27" fill="#8f9bff" fill-opacity="0.09"/>
+    <path d="M-12 5L0-10L14 7M-12 5L12 13M0-10L14 7" fill="none" stroke="#e3e5ff" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="-12" cy="5" r="5" fill="#86b8ff"/>
+    <circle cy="-10" r="5" fill="#c1b7ff"/>
+    <circle cx="14" cy="7" r="5" fill="#a79cff"/>
+    <circle cx="12" cy="13" r="4" fill="#d9d4ff"/>
+  </g>
+
+  <g transform="translate(421 161)">
+    <circle r="34" fill="#191d37" stroke="#a79cff" stroke-opacity="0.5" stroke-width="2"/>
+    <circle r="24" fill="#a79cff" fill-opacity="0.09"/>
+    <path d="M-11 10A17 17 0 1 1 13 7" fill="none" stroke="#ece9ff" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M13 7L12-3M13 7L3 6" fill="none" stroke="#ece9ff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <circle cx="526" cy="108" r="82" fill="url(#destination)"/>
+  <circle cx="526" cy="108" r="47" fill="#f5c26b" fill-opacity="0.08" stroke="#f5c26b" stroke-opacity="0.25" stroke-width="2"/>
+  <circle cx="526" cy="108" r="29" fill="#20233c" stroke="#f5c26b" stroke-opacity="0.72" stroke-width="2.5"/>
+  <circle cx="526" cy="108" r="12" fill="#f5c26b" fill-opacity="0.18" stroke="#ffe1a6" stroke-width="2"/>
+  <path d="M526 88V77M526 139V128M506 108H495M557 108H546" stroke="#f8d590" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M526 96L529.7 103.1L537.5 104.4L531.9 110L533.1 117.8L526 114.2L518.9 117.8L520.1 110L514.5 104.4L522.3 103.1Z" fill="#ffe0a0"/>
+
+  <g fill="#eaeaea" opacity="0.45">
+    <circle cx="257" cy="173" r="3"/>
+    <circle cx="287" cy="151" r="2"/>
+    <circle cx="324" cy="176" r="2.5"/>
+    <circle cx="505" cy="267" r="2"/>
+    <circle cx="539" cy="286" r="3"/>
+    <circle cx="559" cy="247" r="2"/>
+  </g>
+</svg>
