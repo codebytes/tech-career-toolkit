@@ -141,6 +141,12 @@ without meaning "anything in tech."
 
 # You already have useful strengths
 
+<style scoped>
+table {
+  line-height: 1.25;
+}
+</style>
+
 | Where it came from | Strengths you built | How it maps to tech |
 |---|---|---|
 | Games and hobbies | problem solving, patience | Debugging, learning systems |
@@ -519,9 +525,6 @@ antidote to feeling like you haven't done anything.
 
 # 3 / Find your people
 
-<div class="columns">
-<div>
-
 ## Being part of a community is
 
 - learning alongside other people
@@ -529,22 +532,6 @@ antidote to feeling like you haven't done anything.
 - helping out where you can
 - saying thanks and following up
 - becoming known as reliable
-
-</div>
-<div>
-
-## Where to find them
-
-- school clubs: coding, robotics, esports
-- FIRST Robotics teams and hackathons
-- online communities for what you're into
-- Discord servers, forums, and open source
-- library and community center events
-
-</div>
-</div>
-
-> It's **not** collecting contacts or DMing strangers - it's showing up and being helpful.
 
 <!--
 Timing: 75 seconds.
@@ -555,6 +542,20 @@ You can help by welcoming others, sharing a resource, or reporting a clear bug -
 not only by writing code. Mention basic online safety: keep personal info
 private and loop in a trusted adult.
 -->
+
+---
+
+<!-- _class: invert -->
+
+# Where to find them
+
+- school clubs: coding, robotics, esports
+- FIRST Robotics teams and hackathons
+- online communities for what you're into
+- Discord servers, forums, and open source
+- library and community center events
+
+> It's **not** collecting contacts or DMing strangers - it's showing up and being helpful.
 
 ---
 
